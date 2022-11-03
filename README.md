@@ -1,2 +1,2 @@
-# fun-with-jupyter
+# jupyter-examples
 Examples and explorations involving Jupyter Notebooks. 
